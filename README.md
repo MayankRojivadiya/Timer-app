@@ -16,7 +16,7 @@ A productivity timer based on the **Pomodoro Technique**, built with Python's `t
 
 ## 🖼️ Preview
 
-![Pomodoro Timer Preview](pomodoro_preview.png) 
+![Pomodoro Timer Preview](./assets/preview(1).png) 
 
 ---
 
